@@ -3,7 +3,7 @@ Play Scala application with Swagger
 
 To create this application, rin activator new hello-activator play-scala
 
-1. Update build.sbt anda add the following libraryDependeicies
+1. Update build.sbt and add the following libraryDependeicies
 
     ```
     libraryDependencies ++= Seq(
