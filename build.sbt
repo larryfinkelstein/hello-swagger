@@ -1,4 +1,4 @@
-name := """hello-world"""
+name := "hello-swagger"
 
 version := "1.0-SNAPSHOT"
 
